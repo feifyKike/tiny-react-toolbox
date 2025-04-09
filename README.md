@@ -4,3 +4,4 @@ An assortment of all-types-of-use-cases react components.
 - [headlessui](https://github.com/tailwindlabs/headlessui)
 - [visx](https://github.com/airbnb/visx/)
 - [heroicons](https://github.com/tailwindlabs/heroicons)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
