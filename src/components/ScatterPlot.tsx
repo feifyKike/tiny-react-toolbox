@@ -12,7 +12,7 @@ import { Legend, LegendItem, LegendLabel } from "@visx/legend";
 import { useParentSize } from "@visx/responsive";
 import React from "react";
 
-import { DataPoint, ObjectMarker } from "@/app/lib/components/scatterplot";
+import { DataPoint, ObjectMarker } from "../lib/components/scatterplot";
 
 const SCREEN_ASPECT_RATIO = 16 / 9;
 const SCREEN_ADAPT_DEBOUNCE_TIME = 50;

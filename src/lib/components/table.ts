@@ -1,4 +1,4 @@
-import { NonNullableObj } from "@/app/types/main"
+import { NonNullableObj } from "../../types/main"
 
 export interface TableRow {
   columns: string[]
