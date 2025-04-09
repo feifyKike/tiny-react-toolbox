@@ -1,2 +1,5 @@
-# tiny-react-toolbox
-A small assortment of reusable components for general UI needs.
+# Tiny React Toolbox (TS).
+## Libraries used.
+- (headlessui)[https://github.com/tailwindlabs/headlessui]
+- (visx)[https://github.com/airbnb/visx/]
+- (heroicons)[https://github.com/tailwindlabs/heroicons]
